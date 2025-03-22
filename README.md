@@ -4,6 +4,11 @@ Ce projet est une API Flask permettant de récupérer et de scraper des annonces
 Avant d'exécuter cette application, vous devez avoir installé les outils suivants sur votre machine :
 - [Python 3.x](https://www.python.org/downloads/) (si vous ne l'avez pas déjà installé)
 - [PostgreSQL](https://www.postgresql.org/download/) (si vous prévoyez d'utiliser la fonctionnalité d'enregistrement dans PostgreSQL)
+## Technologies Utilisées
+
+- **Scraping** : BeautifulSoup et Requests
+- **Base de Données** : PostgreSQL
+- **API** : Flask (REST API)
 ### Configuration
 
 1. **Base de données PostgreSQL** :
