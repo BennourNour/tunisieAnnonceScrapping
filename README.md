@@ -12,7 +12,7 @@ Avant d'exécuter cette application, vous devez avoir installé les outils suiva
 
 ## Installation et Exécution
 1. Clonez ce dépôt sur votre machine locale :
-    git clone https://github.com/votre-utilisateur/projet-tunisie-annonce.git
+    git clone https://github.com/BennourNour/tunisieAnnonceScrapping.git
     cd projet-tunisie-annonce
 2. Installez les dépendances nécessaires :
     pip install -r requirements.txt
